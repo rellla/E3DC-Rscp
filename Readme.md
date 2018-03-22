@@ -15,3 +15,8 @@ master - original version from E3DC<br />
 nonloop - modified version based of original example software (checkout the commit log)<br />
 
 **All versions may be used under the above considerations.**
+
+
+## Branch nonloop:
+- copy e3dc.conf.template to /etc/e3dc.conf and adapt it to your needs<br />
+- build Rscp as usual

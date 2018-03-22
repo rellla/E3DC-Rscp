@@ -1,10 +1,10 @@
 CXX=g++
-ROOT_VALUE=RscpExample
+ROOT_VALUE=Rscp
 
 all: $(ROOT_VALUE)
 
 $(ROOT_VALUE): clean
-	$(CXX) -O3 RscpExampleMain.cpp RscpProtocol.cpp AES.cpp SocketConnection.cpp -o $@
+	$(CXX) -O3 RscpMain.cpp RscpProtocol.cpp AES.cpp SocketConnection.cpp -o $@
 
 
 clean:

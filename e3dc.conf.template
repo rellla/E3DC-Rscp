@@ -1,0 +1,7 @@
+# /etc/e3dc.conf - Configuration file for E3DC Rscp application
+
+server_ip = 192.168.0.1
+server_port = 5033
+e3dc_user = user
+e3dc_password = password
+aes_password = rscp_password

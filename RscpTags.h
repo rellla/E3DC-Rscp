@@ -143,6 +143,8 @@
 #define TAG_EMS_RES_POWERSAVE_ENABLED                       	0x01800104
 #define TAG_EMS_WEATHER_REGULATED_CHARGE_ENABLED            	0x01000105
 #define TAG_EMS_RES_WEATHER_REGULATED_CHARGE_ENABLED        	0x01800105
+#define TAG_EMS_UNKNOWN                                     	0x01000106
+#define TAG_EMS_RES_UNKNOWN                                 	0x01800106
 #define TAG_EMS_REQ_SETTINGS_CHANGE_MARKER                  	0x0100008D
 #define TAG_EMS_SETTINGS_CHANGE_MARKER                      	0x0180008D
 #define TAG_EMS_REQ_GET_MANUAL_CHARGE                       	0x0100008E
